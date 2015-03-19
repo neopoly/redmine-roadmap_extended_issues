@@ -16,6 +16,8 @@
 
 Adds more fields to the issues in Redmine's roadmap
 
+![Screenshot](http://neopoly.github.io/redmine-roadmap_extended_issues/images/screenshot.png)
+
 ## Installation
 
 Ensure you have a `Gemfile.local` file in your Redmine installation. Add to your `Gemfile.local`:
