@@ -1,4 +1,18 @@
+[github]: https://github.com/neopoly/redmine-roadmap_extended_issues
+[doc]: http://rubydoc.info/github/neopoly/redmine-roadmap_extended_issues/master/file/README.md
+[gem]: https://rubygems.org/gems/redmine-roadmap_extended_issues
+[gem-badge]: https://img.shields.io/gem/v/redmine-roadmap_extended_issues.svg
+[inchpages]: https://inch-ci.org/github/neopoly/redmine-roadmap_extended_issues
+[inchpages-badge]: https://inch-ci.org/github/neopoly/redmine-roadmap_extended_issues.svg?branch=master&style=flat
+
 # redmine-roadmap_extended_issues
+
+[![Gem Version][gem-badge]][gem]
+[![Inline docs][inchpages-badge]][inchpages]
+
+[Gem][gem] |
+[Source][github] |
+[Documentation][doc]
 
 Adds more fields to the issues in Redmine's roadmap
 
