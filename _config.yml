@@ -1,0 +1,8 @@
+title: Redmine-roadmap extended issues
+description: Adds more fields to the issues in Redmine's roadmap
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
