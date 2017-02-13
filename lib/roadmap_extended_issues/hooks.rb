@@ -16,7 +16,10 @@ module RoadmapExtendedIssues
 
     def render_extended_issue(issue)
       return "" unless issue
-      content_tag :td, h(issue.status.name)
+      [
+        content_tag(:td, format_object(issue.status)),
+        content_tag(:td, format_object(issue.assigned_to))
+      ].join("\n")
     end
   end
 end
